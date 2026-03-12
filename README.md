@@ -2,23 +2,24 @@
 
 ## Hello👋, I'm Ashe!
 
-<p align="center">
+## 🌐 My Websites
+<p align="left">
 
 <a href="https://github.com/ashe-c0de">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://ashe-wiki.github.io/">
-<img src="https://img.shields.io/badge/Tech-Notebook-2ea44f?style=for-the-badge&logo=gitbook">
+<img src="https://img.shields.io/badge/Notebook-2ea44f?style=for-the-badge&logo=gitbook">
 </a>
 
 <a href="https://ashe-c0de.github.io/">
-<img src="https://img.shields.io/badge/Personal-Essay-fc6d26?style=for-the-badge&logo=medium">
+<img src="https://img.shields.io/badge/Essay-fc6d26?style=for-the-badge&logo=medium">
 </a>
 
 </p>
 
-### Tech Stack and Tool Chain
+## 🛠 Tech Stack & Tool Chain
 
 
 <p align="left">
@@ -39,12 +40,13 @@
   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux">
 </p>
 
-### Stats
+## Stats
 
 <img  
   alt="Ashe's Github Stats" 
   src="https://github-readme-stats-five-nu-57.vercel.app/api?username=ashe-c0de&show_icons=true&theme=tokyonight"
 />
+
 
 
 
