@@ -4,17 +4,17 @@
 ## 🌐 Websites
 
 <p align="left">
-  <!-- #181717 -->
+
   <a href="https://github.com/ashe-c0de">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=white" alt="GitHub">
+    <img src="./src/github.png" alt="github">
   </a>
-  <!-- #1e9eb3 -->
+
   <a href="https://ashe-wiki.github.io/">
-    <img src="https://img.shields.io/badge/Notebook-1e9eb3?style=for-the-badge&logoColor=white" alt="Notebook">
+    <img src="./src/notebook.png" alt="Notebook">
   </a>
-  <!-- #f2b9b2 -->
+
   <a href="https://ashe-c0de.github.io/">
-    <img src="https://img.shields.io/badge/Essay-f2b9b2?style=for-the-badge&logoColor=white" alt="Essay">
+    <img src="./src/blog.png" alt="Essay">
   </a>
 </p>
 
