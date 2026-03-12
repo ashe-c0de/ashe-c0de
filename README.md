@@ -30,7 +30,7 @@
 -->
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="/">
     <img src="https://skillicons.dev/icons?i=go,java,rust,mysql,postgresql,git,vim,neovim,vscode,kubernetes,docker,windows,apple,linux" />
   </a>
 </p>
@@ -41,6 +41,7 @@
   alt="Ashe's Github Stats" 
   src="https://github-readme-stats-five-nu-57.vercel.app/api?username=ashe-c0de&show_icons=true&theme=tokyonight"
 />
+
 
 
 
