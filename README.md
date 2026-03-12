@@ -4,18 +4,9 @@
 ## 🌐 Websites
 
 <p align="left">
-
-  <a href="https://github.com/ashe-c0de">
-    <img src="./src/github.png" alt="github">
-  </a>
-
-  <a href="https://ashe-wiki.github.io/">
-    <img src="./src/notebook.png" alt="Notebook">
-  </a>
-
-  <a href="https://ashe-c0de.github.io/">
-    <img src="./src/blog.png" alt="Essay">
-  </a>
+<a href="https://github.com/ashe-c0de"><img src="./src/github.png"></a>&nbsp;
+<a href="https://ashe-wiki.github.io/"><img src="./src/notebook.png"></a>&nbsp;
+<a href="https://ashe-c0de.github.io/"><img src="./src/blog.png"></a>
 </p>
 
 ## 🛠 Tech Stack
@@ -42,6 +33,7 @@
 ## 📊 Stats
 
 <img alt="Ashe's Github Stats" src="https://github-readme-stats-five-nu-57.vercel.app/api?username=ashe-c0de&show_icons=true&theme=tokyonight"/>
+
 
 
 
