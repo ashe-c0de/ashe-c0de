@@ -3,7 +3,19 @@
 ## Hello👋, I'm Ashe!
 
 <p align="center">
-🏠<a href="https://github.com/ashe-c0de">Homepage</a> | 👨‍💻<a href="https://ashe-wiki.github.io/">Notebook</a> | 📔<a href="https://ashe-c0de.github.io/">Essay</a>
+
+<a href="https://github.com/ashe-c0de">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://ashe-wiki.github.io/">
+<img src="https://img.shields.io/badge/Tech-Notebook-2ea44f?style=for-the-badge&logo=gitbook">
+</a>
+
+<a href="https://ashe-c0de.github.io/">
+<img src="https://img.shields.io/badge/Personal-Essay-fc6d26?style=for-the-badge&logo=medium">
+</a>
+
 </p>
 
 ### Tech Stack and Tool Chain
@@ -21,7 +33,7 @@
   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" alt="Neovim">
   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code">
   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker">
-   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes">
+  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes">
   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows">
   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS">
   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux">
@@ -33,6 +45,8 @@
   alt="Ashe's Github Stats" 
   src="https://github-readme-stats-five-nu-57.vercel.app/api?username=ashe-c0de&show_icons=true&theme=tokyonight"
 />
+
+
 
 
 
