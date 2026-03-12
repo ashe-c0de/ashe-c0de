@@ -1,7 +1,7 @@
 
 # Hello👋, I'm Ashe!
 
-## My Websites
+## 🌐 Websits
 
 <p align="left">
   <!-- #181717 -->
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-## Tech Stack & Tool Chain
+## 🛠 Tech
 
 
 <p align="left">
@@ -39,12 +39,10 @@
   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux">
 </p>
 
-## Stats
+## 📊 Stat
 
-<img  
-  alt="Ashe's Github Stats" 
-  src="https://github-readme-stats-five-nu-57.vercel.app/api?username=ashe-c0de&show_icons=true&theme=tokyonight"
-/>
+<img alt="Ashe's Github Stats" src="https://github-readme-stats-five-nu-57.vercel.app/api?username=ashe-c0de&show_icons=true&theme=tokyonight"/>
+
 
 
 
