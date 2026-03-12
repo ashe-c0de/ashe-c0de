@@ -1,7 +1,31 @@
 <!-- <h1 align="center">Hi 👋, Nice to meet you~</h1> -->
 
+## Hello👋, I'm Ashe!
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/ashe-c0de/pic-repo@main/path/2025-06-16-01.jpg" alt="joy" style="max-width: 100%; height: auto;" />
+🏠<a href="https://github.com/ashe-c0de">Homepage</a> | 👨‍💻<a href="https://ashe-wiki.github.io/">Notebook</a> | 📔<a href="https://ashe-c0de.github.io/">Essay</a>
 </p>
+
+### Tech Stack and Tool Chain
+
+<p align="left">
+  <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go">
+  <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java">
+  <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust">
+  <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL">
+  <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL">
+  <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle">
+  <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git">
+  <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" alt="Vim">
+  <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" alt="Neovim">
+  <!-- <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go_land.png" alt="Goland"> -->
+  <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code">
+  <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker">
+  <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows">
+  <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS">
+  <img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux">
+  
+</p>
+
 
 
