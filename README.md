@@ -1,24 +1,22 @@
-<!-- <h1 align="center">Hi 👋, Nice to meet you~</h1> -->
 
 # Hello👋, I'm Ashe!
 
 ## My Websites
+
 <p align="left">
-
-<a href="https://github.com/ashe-c0de">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://ashe-wiki.github.io/">
-<img src="https://img.shields.io/badge/Notebook-2ea44f?style=for-the-badge&logo=gitbook">
-</a>
-
-<a href="https://ashe-c0de.github.io/">
-<img src="https://img.shields.io/badge/Essay-fc6d26?style=for-the-badge&logo=medium">
-</a>
-
+  <!-- #181717 -->
+  <a href="https://github.com/ashe-c0de">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=white" alt="GitHub">
+  </a>
+  <!-- #1e9eb3 -->
+  <a href="https://ashe-wiki.github.io/">
+    <img src="https://img.shields.io/badge/Notebook-1e9eb3?style=for-the-badge&logoColor=white" alt="Notebook">
+  </a>
+  <!-- #f2b9b2 -->
+  <a href="https://ashe-c0de.github.io/">
+    <img src="https://img.shields.io/badge/Essay-f2b9b2?style=for-the-badge&logoColor=white" alt="Essay">
+  </a>
 </p>
-
 ## Tech Stack & Tool Chain
 
 
@@ -46,6 +44,7 @@
   alt="Ashe's Github Stats" 
   src="https://github-readme-stats-five-nu-57.vercel.app/api?username=ashe-c0de&show_icons=true&theme=tokyonight"
 />
+
 
 
 
