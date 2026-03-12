@@ -2,7 +2,7 @@
 
 # Hello👋, I'm Ashe!
 
-## 🌐 My Websites
+## My Websites
 <p align="left">
 
 <a href="https://github.com/ashe-c0de">
@@ -19,7 +19,7 @@
 
 </p>
 
-## 🛠 Tech Stack & Tool Chain
+## Tech Stack & Tool Chain
 
 
 <p align="left">
@@ -46,6 +46,7 @@
   alt="Ashe's Github Stats" 
   src="https://github-readme-stats-five-nu-57.vercel.app/api?username=ashe-c0de&show_icons=true&theme=tokyonight"
 />
+
 
 
 
