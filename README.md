@@ -4,7 +4,7 @@
 ## 🌐 Websites
 
 <p align="left">
-<a href="https://gravatar.com/ashet7"><img src="./src/github.png"></a>&nbsp;
+<a href="https://gravatar.com/ashet7"><img src="./src/ashe.ico"></a>&nbsp;
 <a href="https://ashe-wiki.github.io/"><img src="./src/notebook.png"></a>&nbsp;
 <a href="https://ashe-c0de.github.io/"><img src="./src/blog.png"></a>
 </p>
