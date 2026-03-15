@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://gravatar.com/ashet7.card"><img src="./src/icons8-gravatar-48.ico"></a>&nbsp;
 <a href="https://ashe-wiki.github.io/"><img src="./src/notebook.png"></a>&nbsp;
-<a href="https://ashe-c0de.github.io/"><img src="./src/blog.png"></a>
+<a href="https://ashe-c0de.github.io/"><img src="./src/blog.png" height="50"></a>
 </p>
 
 ## 🛠 Tech Stack
