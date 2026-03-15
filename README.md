@@ -4,7 +4,6 @@
 ## 🌐 Websites
 
 <p align="left">
-<a href="https://gravatar.com/ashet7.card" target="_blank" rel="noopener noreferrer"><img src="./src/gravatar.png" width="48" alt="Gravatar"></a>&nbsp;
 <a href="https://ashe-wiki.github.io/" target="_blank" rel="noopener noreferrer"><img src="./src/document.png" width="48" alt="Ashe wiki"></a>&nbsp;
 <a href="https://ashe-c0de.github.io/" target="_blank" rel="noopener noreferrer"><img src="./src/blog.png" width="48" alt="Essay"></a>
 </p>
