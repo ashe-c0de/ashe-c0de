@@ -18,7 +18,6 @@
 <a href="https://www.postgresql.org" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL"></a>
 <a href="https://www.oracle.com" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle"></a>
 <a href="https://git-scm.com" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git"></a>
-<a href="https://www.vim.org" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" alt="Vim"></a>
 <a href="https://neovim.io" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" alt="Neovim"></a>
 <a href="https://code.visualstudio.com" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code"></a>
 <a href="https://www.docker.com" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker"></a>
