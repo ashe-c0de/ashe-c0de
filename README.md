@@ -29,10 +29,11 @@
 </p>
 
 
-
+<!--
 ## 📊 Stats
 
 <img alt="Ashe's Github Stats" src="https://github-readme-stats-five-nu-57.vercel.app/api?username=ashe-c0de&show_icons=true&theme=tokyonight"/>
+-->
 
 
 
