@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://go.dev" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go"></a>
 <a href="https://www.java.com" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java"></a>
+<a href="https://www.python.org/" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python"></a>
 <a href="https://www.rust-lang.org" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust"></a>
 <a href="https://www.mysql.com" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL"></a>
 <a href="https://www.postgresql.org" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL"></a>
