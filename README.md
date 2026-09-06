@@ -5,7 +5,7 @@
 
 <p align="left">
 <a href="https://ashe-wiki.github.io/" target="_blank" rel="noopener noreferrer"><img src="./src/document.png" width="48" alt="Ashe wiki"></a>&nbsp;
-<a href="https://ashe-c0de.github.io/" target="_blank" rel="noopener noreferrer"><img src="./src/blog.png" width="48" alt="Essay"></a>
+<a href="https://ashe-c0de.github.io/" target="_blank" rel="noopener noreferrer"><img src="./src/instagram.png" width="48" alt="Essay"></a>
 </p>
 
 ## 🛠 Tech Stack
