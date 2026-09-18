@@ -1,57 +1,15 @@
+# Ashe
 
-# Hello👋, I'm Ashe!
+Backend developer.
 
-## 🌐 Websites
+Go · Rust · Java · AI Agents
 
-<p align="left">
-<a href="https://ashe-wiki.github.io/" target="_blank" rel="noopener noreferrer"><img src="./src/document.png" width="48" alt="Ashe wiki"></a>&nbsp;
-<a href="https://ashe-c0de.github.io/" target="_blank" rel="noopener noreferrer"><img src="./src/instagram.png" width="48" alt="Essay"></a>
-</p>
+I write code, build things, and document what I learn.
 
-## 🛠 Tech Stack
+### Writing
 
-<p align="left">
-<a href="https://go.dev" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go"></a>
-<a href="https://www.java.com" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java"></a>
-<a href="https://www.python.org/" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python"></a>
-<a href="https://www.rust-lang.org" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust"></a>
-<a href="https://www.mysql.com" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL"></a>
-<a href="https://www.postgresql.org" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL"></a>
-<a href="https://www.oracle.com" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle"></a>
-<a href="https://git-scm.com" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git"></a>
-<a href="https://neovim.io" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" alt="Neovim"></a>
-<a href="https://code.visualstudio.com" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code"></a>
-<a href="https://www.docker.com" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker"></a>
-<a href="https://kubernetes.io" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes"></a>
-<a href="https://www.microsoft.com/windows" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows"></a>
-<a href="https://www.apple.com/macos" style="margin-right: 10px"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS"></a>
-<a href="https://www.linux.org"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux"></a>
-</p>
+- [Ashe Wiki](https://ashe-wiki.github.io/)
+- [Ashe Blog](https://ashe-c0de.github.io/)
+- [Whisper](https://ashe-c0de.github.io/en/)
 
-
-<!--
-## 📊 Stats
-
-<img alt="Ashe's Github Stats" src="https://github-readme-stats-five-nu-57.vercel.app/api?username=ashe-c0de&show_icons=true&theme=tokyonight"/>
--->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> Honestly expressing yourself.
