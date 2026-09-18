@@ -13,4 +13,3 @@ Building things, writing things, and figuring things out.
 - [Whisper](https://ashe-c0de.github.io/en/)
 - [Luck?](./src/silyb.gif)
 
-> Honestly expressing yourself.
