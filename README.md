@@ -7,7 +7,7 @@ Go  ·  Java  ·  React  ·  Rust  ·  AI Agents
 Building things, writing things, and figuring things out.
 
 <p align="center">
-  <img src="./assets/silyb.gif" alt="A little duck walking by" width="420">
+  <img src="./src/silyb.gif" alt="A little duck walking by" width="420">
 </p>
 
 ### Writing
