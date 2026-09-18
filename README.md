@@ -1,10 +1,10 @@
 # Ashe
 
-Backend developer.
+Full-stack Developer.
 
-Go · Rust · Java · AI Agents
+Go  ·  Java  ·  React  ·  Rust  ·  AI Agents
 
-I write code, build things, and document what I learn.
+Building things, writing things, and figuring things out.
 
 ### Writing
 
